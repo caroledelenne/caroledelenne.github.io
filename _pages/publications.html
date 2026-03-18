@@ -6,13 +6,19 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my HAL profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
+<h1><a id="publi"></a> Publications and conferences</h1>
+The list is exhaustive only for publications in international journals and almost for international conferences.
+
+[HAL]http://haltools.inrialpes.fr/Public/afficheRequetePubli.php?idHal=carole-delenne&amp;annee_publideb=2004&amp;CB_ref_biblio=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;ordre_aff=TA&amp;Fen=Aff&amp;css=../css/styles_publicationsHAL.css[/HAL]
+<div align="right"></div>
+
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -31,6 +37,6 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
+ -->
 
 
