@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Fonctions actuelles
-------
+======
 Maître de Conférences, HDR, Hors Classe
 
 * Enseignement : Polytech Marseille – Génie Civil (GC), Mécanique Energétique (ME) et Ecologie Industrielle et Environnement (EIE)
