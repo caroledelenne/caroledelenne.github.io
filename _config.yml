@@ -24,13 +24,13 @@ repository               : "./caroledelenne.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Carole Delenne"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Site en cours de construction"
+  location         : "Marseille, France"
+  employer         : "Aix Marseille Université"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "carole.delenne@univ-amu.fr" 
 
   # Academic websites
   academia         : # URL
@@ -42,7 +42,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-6683-4399"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
