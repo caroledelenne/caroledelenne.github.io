@@ -53,6 +53,6 @@ Encadrement doctoral
 
 Publications
 ======
-  <ul>{% http://haltools.inrialpes.fr/Public/afficheRequetePubli.php?idHal=carole-delenne&annee_publideb=2004&CB_ref_biblio=oui&langue=Anglais&tri_exp=annee_publi&ordre_aff=TA&Fen=Aff&css=../css/styles_publicationsHAL.css %}</ul>
+  <!-- <ul>{% http://haltools.inrialpes.fr/Public/afficheRequetePubli.php?idHal=carole-delenne&annee_publideb=2004&CB_ref_biblio=oui&langue=Anglais&tri_exp=annee_publi&ordre_aff=TA&Fen=Aff&css=../css/styles_publicationsHAL.css %}</ul> -->
   
 
