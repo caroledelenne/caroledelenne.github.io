@@ -15,7 +15,7 @@ Maître de Conférences, HDR, Hors Classe
 
 * Enseignement : Polytech Marseille – Génie Civil (GC), Mécanique Energétique (ME) et Ecologie Industrielle et Environnement (EIE)
 * Recherche : UMR IUSTI (CNRS - AMU)
-axe ECOCI “Ecoulements Compressibles, Ondes de Choc et Interfaces”
+axe ECOCI "Ecoulements Compressibles, Ondes de Choc et Interfaces"
 
 Expérience professionnelle
 ======
@@ -34,7 +34,7 @@ DEA en Mathématiques Appliquées, Université Paul Sabatier Toulouse.
 
 Enseignements et responsabilités
 ======
-
+TBC
 
 Encadrement doctoral
 ======
@@ -53,6 +53,9 @@ Encadrement doctoral
 
 Publications
 ======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   <!-- <ul>{% http://haltools.inrialpes.fr/Public/afficheRequetePubli.php?idHal=carole-delenne&annee_publideb=2004&CB_ref_biblio=oui&langue=Anglais&tri_exp=annee_publi&ordre_aff=TA&Fen=Aff&css=../css/styles_publicationsHAL.css %}</ul> -->
   
 
