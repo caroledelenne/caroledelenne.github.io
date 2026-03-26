@@ -21,9 +21,9 @@ axe ECOCI "Ecoulements Compressibles, Ondes de Choc et Interfaces"
 
 Diplômes
 ======
-* 2014 : HDR “Propagation de la sensibilité dans les modèles hydrodynamiques. Analyse d’incertitude et estimation des paramètres.” (<a href="https://hal.science/tel-01198570">Lien TEL</a>).
+* 2014 : HDR “Propagation de la sensibilité dans les modèles hydrodynamiques. Analyse d’incertitude et estimation des paramètres.” (<a href="https://hal.science/tel-01198570">Lien</a>).
 
-* Thèse “Extraction et caractérisation des vignes à partir de données de télédétection à très haute résolution spatiale.”, ENGREF (AgroParisTech)/Cemagref (INRAE)/UMR TETIS, Montpellier. (<a href="https://pastel.science.fr/tel-00130407">Lien TEL</a>)
+* Thèse “Extraction et caractérisation des vignes à partir de données de télédétection à très haute résolution spatiale.”, ENGREF (AgroParisTech)/Cemagref (INRAE)/UMR TETIS, Montpellier. (<a href="https://pastel.science.fr/tel-00130407">Lien</a>)
 
 *  2003 Ingénieur INSA de Toulouse, département Génie Mathématique et Modélisation.
 DEA en Mathématiques Appliquées, Université Paul Sabatier Toulouse.
@@ -64,6 +64,16 @@ CIFRE Berger-Levrault.
   - F. Baudu (2024-2027) co-dirigé avec R. Hostache. 
   - M. Aelami (2024-2027) co-encadrée avec R. Hostache (direction officielle V. Guinot, G. Toulemonde).
 
-* 1 Ingénieur d’étude. Benjamin Commandré (20mois, 2016-2018 dans le cadre du projet Régional Cart’Eaux.
+* 1 Ingénieur d’étude. Benjamin Commandré (20mois, 2016-2018) dans le cadre du projet Régional Cart’Eaux.
 * 2 Postdoctorats L. Pujol 2 ans à l’IRD / HSM. O. Et-Targuy à l’IUSTI.
 * 21 Stages M2 + 12 Stages M1 + 2L + 29 Projets Polytech Montpellier
+
+Recherche
+======
+Thématiques principales actuelles :
+* Géomatique et Fusion de données pour la paramétrisation des modèles.
+* Méthodes d’intelligence artificielle pour la modélisation hydrodynamique.
+
+Communications :
+* 32+2 articles dans des revues de rang A voir liste et pdf (<a href="https://cv.hal.science/carole-delenne">sur mon CV HAL</a>)
+* >80 communications dans des conférences internationales, nationales ou séminaires (dont 14 présentations invitées).
