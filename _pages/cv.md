@@ -23,9 +23,9 @@ Diplômes
 ======
 * 2014 : HDR “Propagation de la sensibilité dans les modèles hydrodynamiques. Analyse d’incertitude et estimation des paramètres.” (<a href="https://hal.science/tel-01198570">Lien</a>).
 
-* Thèse “Extraction et caractérisation des vignes à partir de données de télédétection à très haute résolution spatiale.”, ENGREF (AgroParisTech)/Cemagref (INRAE)/UMR TETIS, Montpellier. (<a href="https://pastel.science.fr/tel-00130407">Lien</a>)
+* 2006 : Thèse “Extraction et caractérisation des vignes à partir de données de télédétection à très haute résolution spatiale.”, ENGREF (AgroParisTech)/Cemagref (INRAE)/UMR TETIS, Montpellier. (<a href="https://pastel.science.fr/tel-00130407">Lien</a>)
 
-*  2003 Ingénieur INSA de Toulouse, département Génie Mathématique et Modélisation.
+*  2003 : Ingénieur INSA de Toulouse, département Génie Mathématique et Modélisation.
 DEA en Mathématiques Appliquées, Université Paul Sabatier Toulouse.
 
 
@@ -49,13 +49,13 @@ Enseignements et responsabilités
 * Polytech Marseille : responsable GC4 et co-responsable du recrutement. 
 * Polytech Montpellier : directrice des études EGC (6 ans), responsable d’année EGC3 puis EGC5 et STE4.
 * Elue au Conseil de Laboratoire IUSTI (2025) et HSM (11 ans); au Conseil Scientifique de l’UM2 dans le corps MCF sans HDR (2 ans); à la filière STE de l’Ecole Doctorale GAIA (4 ans). Référente HAL pour HSM et Lemon.
-* Jurys Présidente d’un jury de recrutement MCF et membre de 4 autres jurys; membre de 14 jurys de thèse dont 5 comme rapportrice; membre d’un jury d’HDR.
+* Jurys : Présidente d’un jury de recrutement MCF et membre de 4 autres jurys; membre de 14 jurys de thèse dont 5 comme rapportrice; membre d’un jury d’HDR.
 
-Encadrement doctoral
+Encadrement doctoral (voir onglet supervision)
 ======
 * 5 Thèses soutenues: 
   - P. Finaud Guyot (2007-2009) (encadrement). 
-  - V. Ayoub (2018-2022) (direction, encadrement : R. Hostache). 
+  - V. Ayoub (2018-2022) direction (encadrement : R. Hostache). 
   - Y. Belghaddar (2019-2022) co-dirigé avec A. Begdouri (LSIA Fes, Maroc),
 CIFRE Berger-Levrault. 
   - F. Boodoo (2022-2024) co-dirigé avec R. Hostache. 
