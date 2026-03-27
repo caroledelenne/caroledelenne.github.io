@@ -49,7 +49,7 @@ Enseignements et responsabilités
 * Polytech Marseille : responsable GC4 et co-responsable du recrutement. 
 * Polytech Montpellier : directrice des études EGC (6 ans), responsable d’année EGC3 puis EGC5 et STE4.
 * Elue au Conseil de Laboratoire IUSTI (2025) et HSM (11 ans); au Conseil Scientifique de l’UM2 dans le corps MCF sans HDR (2 ans); à la filière STE de l’Ecole Doctorale GAIA (4 ans). Référente HAL pour HSM et Lemon.
-* Jurys : Présidente d’un jury de recrutement MCF et membre de 4 autres jurys; membre de 14 jurys de thèse dont 5 comme rapportrice; membre d’un jury d’HDR.
+* Jurys : Présidente d’un jury de recrutement MCF et membre de 4 autres jurys; membre de 14 jurys de thèse dont 5 comme rapporteur; membre d’un jury d’HDR.
 
 Encadrement doctoral (voir onglet supervision)
 ======
@@ -76,4 +76,4 @@ Thématiques principales actuelles :
 
 Communications :
 * 32+2 articles dans des revues de rang A voir liste et pdf (<a href="https://cv.hal.science/carole-delenne">sur mon CV HAL</a>)
-* >80 communications dans des conférences internationales, nationales ou séminaires (dont 14 présentations invitées).
+* \> 80 communications dans des conférences internationales, nationales ou séminaires (dont 14 présentations invitées).
