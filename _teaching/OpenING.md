@@ -4,7 +4,7 @@ collection: teaching
 type: "Ingénieur"
 permalink: /teaching/OpenING
 venue: "Fondation Polytech"
-date: 2017
+date: 2017-01-01
 location: "Montpellier, France"
 ---
 
