@@ -8,10 +8,6 @@ date: 2008-09-01
 location: "Marseille, France"
 ---
 
-Here is a list of the courses I have taught at [Polytech Montpellier](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/sciences-et-technologies-de-l-eau), in the [Water Science and Technology (STE)](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/sciences-et-technologies-de-l-eau) and Water and Civil Engineering (EGC) programmes, and those I teach at Polytech Marseille, in the Civil Engineering (GC), Mechanical and Energy Engineering (ME), and Industrial Energy and Environment (EIE) programmes.
-Most of the courses are in French, but some are also given in English.
-
-
 
 Mathematics for Engineers & computer sciences
 ======
@@ -43,5 +39,5 @@ Hydraulics/Fluid Mechanics
 - Tutorial: Hydraulics (IUT Civil Engineering);
 - Tutorial: 2D Hydraulic Modelling (STE5);
 - Drinking Water Distribution Networks (STE4, STE5, CNAM): Epanet hands-on;
-- Fluid Mechanics (STE3);
+- Fluid Mechanics (STE3).
 
