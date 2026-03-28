@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
 type: "Principaux enseignements"
 permalink: /teaching/Courses
@@ -7,6 +7,11 @@ venue: "Polytech Montpellier et Marseille"
 date: 2008-09-01
 location: "Marseille, France"
 ---
+
+
+Here is a list of the courses I have taught at Polytech Montpellier in the Water Science and Technology (STE) and Water and Civil Engineering (EGC) programmes, and those I teach at Polytech Marseille, in the Civil Engineering (GC), Mechanical and Energy Engineering (ME), and Industrial Energy and Environment (EIE) programmes.
+Most of the courses are in French, but some are also given in English.
+
 
 
 Mathematics for Engineers & computer sciences
