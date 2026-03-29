@@ -12,6 +12,10 @@ location: "Marseille, France"
 Following this link is a list of the courses I have taught at Polytech Montpellier in the Water Science and Technology (STE) and Water and Civil Engineering (EGC) programmes, and those I teach at Polytech Marseille, in the Civil Engineering (GC), Mechanical and Energy Engineering (ME), and Industrial Energy and Environment (EIE) programmes.
 Most of the courses are in French, but some are also given in English.
 
+The details of all actual courses offered at Polytech Montpellier are available in the syllabus on the following websites:
+[STE](https://syllabus.polytech.umontpellier.fr/STE) or [EGC](https://syllabus.polytech.umontpellier.fr/EGC).
+
+
 
 Mathematics for Engineers & computer sciences
 ======
