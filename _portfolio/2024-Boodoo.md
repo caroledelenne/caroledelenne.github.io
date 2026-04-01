@@ -1,7 +1,7 @@
 ---
 title: "Fadil Boodoo"
 excerpt: "Hydrodynamic modeling and artificial intelligence for a flood forecasting system."
-collection: portfolio
+collection: supervision
 ---
 
 

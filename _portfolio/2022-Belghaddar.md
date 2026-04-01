@@ -1,7 +1,7 @@
 ---
 title: "Yassine Belghaddar"
 excerpt: "Data fusion for urban network mapping: application to wastewater networks."
-collection: portfolio
+collection: supervision
 ---
 
 

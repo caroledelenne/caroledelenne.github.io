@@ -1,7 +1,7 @@
 ---
 title: "Vita Ayoub"
 excerpt: "Assimilation of satellite-derived flood information for better parameterizing and controlling large-scale hydraulic models over data-scarce areas."
-collection: portfolio
+collection: supervision
 ---
 
 **Vita Ayoub**

@@ -1,7 +1,7 @@
 ---
 title: "Omar Et-Targuy"
 excerpt: "Practical fusion and heterogeneous conditioning from uncertain information."
-collection: portfolio
+collection: supervision
 ---
 
 

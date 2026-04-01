@@ -1,7 +1,7 @@
 ---
 title: "Pascal Finaud-Guyot"
 excerpt: ""
-collection: portfolio
+collection: supervision
 ---
 
 Macroscopic modeling of river and urban floods: accounting for directional flows and exchanges between main channel and floodplain.
