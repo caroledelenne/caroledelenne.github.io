@@ -1,8 +1,10 @@
 ---
 title: "Pascal Finaud-Guyot"
-excerpt: "Macroscopic modeling of river and urban floods: accounting for directional flows and exchanges between main channel and floodplain."
+excerpt: ""
 collection: portfolio
 ---
+
+Macroscopic modeling of river and urban floods: accounting for directional flows and exchanges between main channel and floodplain.
 
 **Pascal Finaud-Guyot**
 *"Macroscopic modeling of river and urban floods: accounting for directional flows and exchanges between main channel and floodplain."*
