@@ -4,8 +4,9 @@ excerpt: "Assimilation of satellite-derived flood extent maps into free-surface 
 collection: portfolio
 ---
 
+Flavien Baudu
+======
 
-**Flavien Baudu**
 *"Assimilation of satellite-derived flood extent maps into free-surface hydraulic models to improve flood forecasting."*
 **University of Montpellier**, 01/12/2024–2027.
 **Supervisors**: R. Hostache (50%), C. Delenne (50%).
