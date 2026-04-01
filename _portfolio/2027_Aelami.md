@@ -1,13 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Mitra Aelami"
+excerpt: "Urban flood risk modeling using neural networks and the impact of extreme spatio-temporal rainfall events.<br/>" 
 collection: portfolio
 ---
-### Liste des thèses
 
----
 
-**Mitra Aelami**
+Mitra Aelami
+======
+
 *"Urban flood risk modeling using neural networks and the impact of extreme spatio-temporal rainfall events."*
 **University of Montpellier**, 01/10/2024–2027.
 **Supervisors**: V. Guinot, G. Toulemonde; **co-supervision**: C. Delenne and R. Hostache.

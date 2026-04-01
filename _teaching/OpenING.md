@@ -8,13 +8,11 @@ date: 2017-01-01
 location: "Montpellier, France"
 ---
 
-Projets OpenING et WidenING
-========
-
-
-Le réseau Polytech a reçu le soutien du Ministère de  l’Enseignement Supérieur de la Recherche et de l’Innovation, à la suite  d’un appel à projets de l’Agence Nationale de la Recherche  « l’hybridation des formations ». Comme 18 autres projets choisis, le projet OpenING  (Ouverture du cycle Préparatoire aux Enseignements Numériques en écoles d’INGénieurs) a reçu un fond d’amorçage d’un million d’euros pour la période 2021-2023. Dans la continuité de ce projet, WidenING a pour objet de poursuivre l’hybridation des formations. 
+Le réseau Polytech a reçu le soutien du Ministère de  l’Enseignement Supérieur de la Recherche et de l’Innovation, à la suite  d’un appel à projets de l’Agence Nationale de la Recherche  « l’hybridation des formations ». Comme 18 autres projets choisis, le projet OpenING  (Ouverture du cycle Préparatoire aux Enseignements Numériques en écoles d’INGénieurs) a reçu un fond d’amorçage d’un million d’euros pour la période 2021-2023. Dans la continuité de ce projet, WidenING avait pour objet de poursuivre l’hybridation des formations. 
 
 <a href="https://www.polytech-reseau.org/opening/">En savoir plus.</a>
+
+
 
 
 
