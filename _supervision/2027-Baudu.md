@@ -7,12 +7,13 @@ collection: supervision
 
 **Flavien Baudu** 
 
-**Université Montpellier**
-
+**Université Montpellier**, in progress.
 
 **Supervision:** R. Hostache, C. Delenne
 
 [https://theses.fr/s403144](theses.fr/s403144).
+
+*"Assimilation of satellite-derived flood information into shallow water models for improving flood forecasting"*
 
 **Abstract.**
 
