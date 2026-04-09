@@ -5,13 +5,13 @@ collection: supervision
 ---
 
 
-**Yassine Belghaddar** [ORCID](https://orcid.org/0000-0002-1944-6294)
+
 
 **University of Montpellier**, USMBA (Fez), December 2022.
 
 **Supervisors**: C. Delenne (50%), A. Begdouri (50%); **co-supervision**: N. Chahinian, A. Seriai.
 
-[theses.fr/2022UMONG092](https://www.theses.fr/2022UMONG092).
+[ORCID](https://orcid.org/0000-0002-1944-6294); [theses.fr/2022UMONG092](https://www.theses.fr/2022UMONG092).
 
 *"Data fusion for urban network mapping : application to wastewater networks"*
 

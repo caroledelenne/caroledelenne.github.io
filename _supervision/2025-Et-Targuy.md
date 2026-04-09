@@ -5,15 +5,12 @@ collection: supervision
 ---
 
 
----
 
-**Omar Et-Targuy** [ORCID](https://orcid.org/0000-0002-8307-7307)
-
-**University of Artois** – [USMBA](https://fst-usmba.ac.ma/laboratoire_sia/) (Morocco), 2025 (01/10/2022–30/2025).
+**University of Artois** – [USMBA](https://fst-usmba.ac.ma/laboratoire_sia/) (Morocco), 2025.
 
 **Supervisors**: S. Benferhat, A. Begdouri, C. Delenne.
 
-[theses.fr/s344364](https://www.theses.fr/s344364).
+[ORCID](https://orcid.org/0000-0002-8307-7307); [theses.fr/s344364](https://www.theses.fr/s344364).
 
 
 

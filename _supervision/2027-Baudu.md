@@ -5,8 +5,6 @@ collection: supervision
 ---
 
 
-**Flavien Baudu** 
-
 **Université Montpellier**, in progress.
 
 **Supervision:** R. Hostache, C. Delenne

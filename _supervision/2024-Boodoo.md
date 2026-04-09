@@ -5,12 +5,12 @@ collection: supervision
 ---
 
 
-**Fadil Boodoo** [ORCID](https://orcid.org/0000-0002-7469-9366)
+
 
 **University of Montpellier**, 2024.
 
 **Supervisors**: C. Delenne (50%), R. Hostache (50%).
-[theses.fr/s308004](https://www.theses.fr/s308004).
+[ORCID](https://orcid.org/0000-0002-7469-9366); [theses.fr/s308004](https://www.theses.fr/s308004).
 
 
 *"Contribution of Artificial intelligence to spatio-temporal flood forecasting"*
