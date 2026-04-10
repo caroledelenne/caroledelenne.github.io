@@ -4,13 +4,13 @@ excerpt: "Assimilation of satellite earth observation-derived flood maps for a b
 collection: supervision
 ---
 
-**Vita Ayoub**[ORCID](https://orcid.org/0000-0001-5931-7422)
+
 
 **University of Montpellier**, 2022 (15/11/2018–14/11/2022).
 
 **Supervisor**: C. Delenne; **co-supervision**: R. Hostache.
 
-[theses.fr/2022UMONG094](https://www.theses.fr/2022UMONG094).
+[ORCID](https://orcid.org/0000-0001-5931-7422); [theses.fr/2022UMONG094](https://www.theses.fr/2022UMONG094).
 
 *"Assimilation of satellite earth observation-derived flood maps for a better parameterization of large scale hydraulic models."*
 
