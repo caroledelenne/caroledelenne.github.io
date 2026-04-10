@@ -4,7 +4,7 @@ collection: teaching
 type: "Principaux enseignements"
 permalink: /teaching/Courses
 venue: "Polytech Montpellier et Marseille"
-date: 2008-09-01
+date: 
 location: "Marseille, France"
 ---
 
