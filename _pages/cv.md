@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 Fonctions actuelles
 ======
@@ -29,7 +29,7 @@ Diplômes
 DEA en Mathématiques Appliquées, Université Paul Sabatier Toulouse.
 
 
-Expérience
+Expérience professionnelle
 ======
 * 2024 : Mutation à Polytech Marseille laboratoire IUSTI.
 

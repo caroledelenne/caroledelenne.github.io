@@ -6,13 +6,12 @@ collection: supervision
 
 
 
-**Pascal Finaud-Guyot** [(ORCID)](https://orcid.org/0000-0002-4627-7182)
 
 **University of Montpellier 2**, 2009.
 
 **Supervisor**: V. Guinot; **co-supervision**: C. Delenne.
 
-[theses.fr/2009MON20142](https://www.theses.fr/2009MON20142).
+[(ORCID)](https://orcid.org/0000-0002-4627-7182); [theses.fr/2009MON20142](https://www.theses.fr/2009MON20142).
 
 *"Macroscopic flood modelling : Taking into account directional flows and main channel - floodplain transfer"*
 
