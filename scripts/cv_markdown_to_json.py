@@ -326,7 +326,7 @@ def parse_teaching(teaching_dir):
             teaching_entry = {
                 "course": front_matter.get('title', ''),
                 "institution": front_matter.get('venue', ''),
-                # "date": front_matter.get('date', ''),
+                "date": front_matter.get('date', ''),
                 "role": front_matter.get('type', ''),
                 "description": front_matter.get('excerpt', '')
             }
