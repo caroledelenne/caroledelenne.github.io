@@ -364,6 +364,36 @@ def parse_supervision(supervision_dir):
     
     return supervision
 
+def parse_projects(projects_dir):
+    """Parse projects from the _projects directory."""
+    projects = []
+    
+    if not os.path.exists(projects_dir):
+        return projects
+    
+    for project_file in sorted(glob.glob(os.path.join(projects_dir, "*.md"))):
+        with open(project_file, 'r', encoding='utf-8') as file:
+            content = file.read()
+        
+        # Extract front matter
+        front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
+        if front_matter_match:
+            front_matter = yaml.safe_load(front_matter_match.group(1))
+            
+            # Extract project details
+            project_entry = {
+                "name": front_matter.get('title', ''),
+                "category": front_matter.get('collection', 'projects'),
+                "date": front_matter.get('date', ''),
+                "url": front_matter.get('permalink', ''),
+                "description": front_matter.get('excerpt', '')
+            }
+            
+            projects.append(project_entry)
+    
+    return projects
+        
+
 def create_cv_json(md_file, config_file, repo_root, output_file):
     """Create a JSON CV from markdown and other repository data."""
     # Parse the markdown CV
@@ -398,6 +428,9 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     # Add supervision
     cv_json["supervision"] = parse_supervision(os.path.join(repo_root, "_supervision"))
     
+    # Add projects
+    cv_json["projects"] = parse_projects(os.path.join(repo_root, "_projects"))
+
     # Extract languages and interests from config if available
     if 'languages' in config:
         cv_json["languages"] = config.get('languages', [])
