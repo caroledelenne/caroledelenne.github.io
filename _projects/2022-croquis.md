@@ -15,6 +15,6 @@ Le projet multi-disciplinaire CROQUIS se place dans ce contexte où des chercheu
 Le consortium, composé de deux partenaires en Intelligence Artificielle (CRIL : Centre de Recherche en Informatique de Lens, coordinateur du projet, et I3S : Laboratoire d’Informatique, Signaux et Systèmes de Sophia Antipolis) et d’un partenaire en Sciences de l’Eau (HSM : HydroSciences Montpellier), offre des compétences complémentaires, essentielles à la réalisation des objectifs de ce projet.
 
 
-[https://app.dimensions.ai/details/grant/grant.9947853](GRANT_NUMBER: ANR-21-CE23-0004)
+[GRANT_NUMBER: ANR-21-CE23-0004](https://app.dimensions.ai/details/grant/grant.9947853)
 
-[https://www.cril.univ-artois.fr/croquis/][more details]
+[more details](https://www.cril.univ-artois.fr/croquis/)
