@@ -2,6 +2,7 @@
 title: "Pascal Finaud-Guyot"
 excerpt: "Macroscopic flood modelling : Taking into account directional flows and main channel - floodplain transfer"
 collection: supervision
+annee: "2009"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Omar Et-Targuy"
 excerpt: "Possibilistic Conditioning and Graph-Based Representation of Wastewater Networks"
+annee: "2025"
 collection: supervision
 ---
 
