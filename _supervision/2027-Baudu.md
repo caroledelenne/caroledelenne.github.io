@@ -1,7 +1,7 @@
 ---
 title: "Flavien Baudu"
 excerpt: "Assimilation of satellite-derived flood information into shallow water models for improving flood forecasting"
-annee: "in progress"
+year: "in progress"
 collection: supervision
 ---
 

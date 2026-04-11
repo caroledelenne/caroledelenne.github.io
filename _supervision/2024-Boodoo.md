@@ -1,7 +1,7 @@
 ---
 title: "Fadil Boodoo"
 excerpt: "Contribution of Artificial intelligence to spatio-temporal flood forecasting"
-annee: "2024"
+year: "2024"
 collection: supervision
 ---
 

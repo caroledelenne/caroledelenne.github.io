@@ -39,7 +39,10 @@
     {% endif %}
 
         {% if post.collection == 'supervision' %}
-          <p> {{ post.annee }} </p>
+          <p> {{ post.year }} </p>
+        {% endif %}
+        {% if post.collection == 'projects' %}
+          <p> {{ post.year }} </p>
         {% endif %}
 
         {% if post.collection == 'teaching' %}

@@ -1,7 +1,7 @@
 ---
 title: "Vita Ayoub"
 excerpt: "Assimilation of satellite earth observation-derived flood maps for a better parameterization of large scale hydraulic models."
-annee: "2022"
+year: "2022"
 collection: supervision
 ---
 

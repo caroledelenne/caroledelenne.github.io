@@ -35,7 +35,10 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'supervision' %}
-          <p> {{ page.annee }} </p>
+          <p> {{ page.year }} </p>
+        {% endif %}
+        {% if page.collection == 'projects' %}
+          <p> {{ page.year }} </p>
         {% endif %}
 
         {% if page.collection == 'teaching' %}
