@@ -24,6 +24,31 @@ layout: default
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
    -->  
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <style>
+    .page-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+    .page-logo__img {
+      width: 60px;
+      height: auto;
+      object-fit: contain;
+    }
+    .page-info {
+      flex: 1;
+    }
+    .page-info__title {
+      margin: 0 0 0.25rem 0;
+    }
+    .page-info__excerpt,
+    .page-info__date {
+      margin: 0.1rem 0;
+      font-size: 0.9rem;
+      color: #555;
+    }
+  </style>
     {% if page.image != "" %}
     <div class="page-logo">
       <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}" class="page-logo__img">
