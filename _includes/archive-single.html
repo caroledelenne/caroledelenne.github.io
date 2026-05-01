@@ -43,6 +43,9 @@
         {% endif %}
         {% if post.collection == 'projects' %}
           <p> {{ post.year }} </p>
+          {% if post.image != "" %}
+            <p><img src="{{ post.image | relative_url| width: 120 }}" alt="{{ post.image_alt | default: post.title }}" class="archive__item-image"></p>
+          {% endif %}
         {% endif %}
 
         {% if post.collection == 'teaching' %}
