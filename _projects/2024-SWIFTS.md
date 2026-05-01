@@ -2,6 +2,7 @@
 title: "ANR SWIFTS"
 excerpt: "Shallow Water modelling and satellite Imagery combination for improving Flood predicTionS"
 year: "2024"
+image: "/files/LogoSWIFT.png"
 collection: projects
 ---
 
