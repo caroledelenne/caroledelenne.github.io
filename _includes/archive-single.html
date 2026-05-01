@@ -43,7 +43,7 @@
         {% endif %}
         {% if post.collection == 'projects' %}
           <p> {{ post.year }} </p>
-          {% if post.image != "" %}
+          {% if post.image %}
             <p><img src="{{ post.image | relative_url}}" alt="{{ post.image_alt | default: post.title }}" class="archive__item-image", style="width:80px;height: auto"></p>
           {% endif %}
         {% endif %}
