@@ -41,8 +41,7 @@ layout: default
           <p> {{ page.year }} </p>
           {% if page.image != "" %}<img src="{{ page.image | relative_url }}" alt="">{% endif %}
         {% endif %}
-        {{ page.image }}
-        {% endif %}
+        
 
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i> </p>
