@@ -38,8 +38,10 @@ layout: default
           <p> {{ page.year }} </p>
         {% endif %}
         {% if page.collection == 'projects' %}
-          <p> {{ page.year }}
-          {% if page.image %} <img src="{{ page.image | relative_url }}" alt=""> {% endif %} </p>
+          <p> {{ page.year }} </p>
+          {% if page.image != "" %}<img src="{{ page.image | relative_url }}" alt="">{% endif %}
+        {% endif %}
+        {{ page.image }}
         {% endif %}
 
         {% if page.collection == 'teaching' %}
