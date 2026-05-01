@@ -3,6 +3,7 @@ title: "Chist-Era ATLAS"
 excerpt: "GeoAI-based AugmenTation of muLti-source urbAn GIS"
 year: "2025"
 collection: projects
+image: "/files/ATLAS-logo.png"
 ---
 
 ![Projet Atlas](/files/PosterATLAS_EGU.jpg "Poster du projet ATLAS")
