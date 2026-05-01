@@ -15,4 +15,4 @@ The third objective of this project concerns the difficult problem of integratin
 The final scientific objective is to create sustainable open access datasets, design prototypes and proofs of concept integrating efficient algorithms for the different tasks described in the three first objectives of this project. We also aim to illustrate our generic methods, based on GIS augmentation, through a concrete application to urban flooding. We will use at least one case study from the city of Montpellier. Thanks to close collaborations between the members of this consortium and public and
 private stakeholders in water management, rich and representative data has been collected to illustrate and validate the project’s objectives. It will continue to be collected throughout the project.
 
-
+![Projet Atlas](/files/PosterATLAS_EGU.jpg "Poster du projet ATLAS").
