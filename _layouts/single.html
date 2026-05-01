@@ -22,6 +22,24 @@ layout: default
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
+    
+    <div class="page__header-layout">
+      {% if page.image != "" %}
+      <img src="{{ page.image | relative_url }}" alt="" class="page__header-image">
+      {% endif %}
+      <div class="page__header-content">
+      {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+      {% if page.excerpt %}<p class="page__excerpt">{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}</p>{% endif %}
+      {% if page.date %}<p class="page__date">{{ page.date | date: "%B %d, %Y" }}</p>{% endif %}
+      {% if page.modified %}<p class="page__modified">{{ page.modified | date: "%B %d, %Y" }}</p>{% endif %}
+      </div>
+    </div>
+    <figure class="page__image">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}">
+      {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+    </figure>
+
+    
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
@@ -39,7 +57,6 @@ layout: default
         {% endif %}
         {% if page.collection == 'projects' %}
           <p> {{ page.year }} </p>
-          {% if page.image != "" %}<img src="{{ page.image | relative_url }}" alt="">{% endif %}
         {% endif %}
         
 
