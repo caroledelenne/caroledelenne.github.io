@@ -22,8 +22,7 @@ layout: default
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
-    {% if page.image %}<meta itemprop="image" content="{{ page.image | relative_url | width: 120 }}">{% endif %}
-   
+    
   <!-- <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     <style>
     .page-header {
