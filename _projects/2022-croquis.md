@@ -3,6 +3,7 @@ title: "ANR CROQUIS"
 excerpt: "Collecting, Representing, cOmpleting, merging and Querying heterogeneous and UncertaIn waStewater and stormwater network data"
 year: "2022"
 collection: projects
+image: "/files/LogoCROQUIS.png"
 ---
 
 

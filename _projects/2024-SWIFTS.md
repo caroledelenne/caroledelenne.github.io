@@ -6,6 +6,7 @@ image: "/files/LogoSWIFT.png"
 collection: projects
 ---
 
+more on SWIFTS' web page: [https://www.swift.cnrs.fr](https://www.swift.cnrs.fr)
 
 Abstract
 ====

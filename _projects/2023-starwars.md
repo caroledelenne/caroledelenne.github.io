@@ -3,6 +3,7 @@ title: "RISE Starwars"
 excerpt: "STormwAteR and WastewAteR networkS heterogeneous data AI-driven management"
 year: "2023"
 collection: projects
+image: "/files/logo-starwars.png"
 ---
 
 
