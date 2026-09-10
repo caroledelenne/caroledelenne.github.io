@@ -11,7 +11,7 @@ redirect_from:
 
 Fonctions actuelles
 ======
-Maître de Conférences, HDR, Hors Classe
+Professeur des universités
 
 * Enseignement : Polytech Marseille – Génie Civil (GC), Mécanique Energétique (ME) et Ecologie Industrielle et Environnement (EIE)
 
@@ -31,6 +31,8 @@ DEA en Mathématiques Appliquées, Université Paul Sabatier Toulouse.
 
 Expérience professionnelle
 ======
+* 2026 : Professeur des universités, Aix Marseille Université, (Polytech / IUSTI).
+
 * 2024 : Mutation à Polytech Marseille laboratoire IUSTI.
 
 * 2020-2021 : Délégation Inria d’un an dans l’équipe Lemon.
