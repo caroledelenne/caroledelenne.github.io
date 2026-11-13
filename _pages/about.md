@@ -6,6 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+Submit your abstract to EGU 2027 session 
+"Managing and Processing Heterogeneous and Imperfect Data"
+before 12 January 2027, 13:00 CET 
+https://meetingorganizer.copernicus.org/EGU27/session/61783" 
+
+
 Carole Delenne is currently full professor at Aix Marseille University (Polytech Marseille / IUSTI). She was at the University of Montpellier from 2008 to 2024 and obtained the Habilitation to Direct Researches in 2014. 
 She co-authored more than 30 publications in international journals and participated to 80+ international conferences. 
 She co-supervised 6 doctoral thesis (2 in progress) and 20+ master's level internships, and was responsible for an engineer for 20 months. 
