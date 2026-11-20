@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-
+# News
 > Submit your abstract to EGU 2027 session 
 > "Managing and Processing Heterogeneous and Imperfect Data: current practices and challenges in Hydrology and Geosciences"
 > before 12 January 2027, 13:00 CET 
 > [https://meetingorganizer.copernicus.org/EGU27/session/61783](https://meetingorganizer.copernicus.org/EGU27/session/61783) 
 
+New article online: [https://authors.elsevier.com/a/1o8Jk4sKhEkk5M](https://authors.elsevier.com/a/1o8Jk4sKhEkk5M)
 
+Fadil Boodoo, Carole Delenne, Franco Alberto Cardillo, Joris Guérin, Renaud Hostache. HydroGCN: A Graph Neural Network surrogate of a shallow-water model for floodplain water-depth prediction – application to the Lower Severn floodplain, UK. Environmental Modelling and Software, 2027, 208, pp.107232. ⟨10.1016/j.envsoft.2026.107232⟩. ⟨hal-05873356⟩
+
+# About me
 Carole Delenne is currently full professor at Aix Marseille University (Polytech Marseille / IUSTI). She was at the University of Montpellier from 2008 to 2024 and obtained the Habilitation to Direct Researches in 2014. 
 She co-authored more than 30 publications in international journals and participated to 80+ international conferences. 
 She co-supervised 6 doctoral thesis (2 in progress) and 20+ master's level internships, and was responsible for an engineer for 20 months. 
